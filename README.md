@@ -96,3 +96,4 @@ A cross-platform tool, built with heart, not hype.
 
 Help this project thrive by buying us a coffee, https://buymeacoffee.com/palettea
 
+
